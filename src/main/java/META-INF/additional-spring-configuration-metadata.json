@@ -1,0 +1,19 @@
+{"properties": [
+  {
+    "name": "spring.server.port",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.server.port'"
+  },
+  {
+    "name": "spring.logging",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging'"
+  }
+]} "description": "A description for 'spring.server.port'"
+  },
+  {
+    "name": "spring.logging",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.logging'"
+  }
+]}
